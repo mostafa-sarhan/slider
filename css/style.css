@@ -1,0 +1,33 @@
+.text {
+    bottom: 15px;
+    right: 15px;
+    left: 15px;
+}
+.w-35 {
+    width: 35%;
+}
+#xMark {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+}
+#nextArrow{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    /* font-size: 20px; */
+}
+#preArrow{
+    position: absolute;
+    top: 50%;
+    left:10px;
+    /* font-size: 20px; */
+}
+* i{
+    cursor: pointer;
+}
+.curser {
+    cursor: pointer;
+
+}
